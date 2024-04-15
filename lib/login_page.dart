@@ -92,7 +92,7 @@ class _LoginPageState extends State<LoginPage> {
                                 fontSize: 20,
                                 fontWeight: FontWeight.w300,
                               ),
-                              hintText: "1234",
+                              hintText: "password",
                               suffixIcon: IconButton(
                                 padding: const EdgeInsets.all(0),
                                 onPressed: () {
