@@ -12,21 +12,6 @@ This Flutter application is a simple login page created using the form widget.
 - Flutter
 - Dart
 
-## Getting Started
-1. **Clone Repository:**
-   ```
-   git clone https://github.com/YashLakhwani99/LoginPage.git
-   ```
-
-2. **Navigate to Project Directory:**
-   ```
-   cd login_page
-   ```
-
-3. **Run the Application:**
-   ```
-   flutter run
-   ```
 
 ## Usage
 - Upon launching the application, users will be presented with a login screen.
